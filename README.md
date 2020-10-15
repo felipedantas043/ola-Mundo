@@ -1,2 +1,3 @@
-# ola Mundo
- primeiro repositorio do curso de git e girhub
+# olá, Mundo!
+ primeiro repositorio do curso de git e github
+ do curso em video do gustavo guanabara
