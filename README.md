@@ -31,6 +31,15 @@
  - [ ] criar uma pagina de lojas
  - [x] fazer um site
  ___
- editei no chrome
+ 
+ criando tabelas
+ 
+ ___
+ 
+ num | Nome | Nota
+ ---|---|---
+ 1 | felipe |8,5
+ 2 | rogerio|10
+ 3 | jaine | 10
  
  [Meu Instagram](https://instagram.com/felipedantas043)
